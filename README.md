@@ -45,20 +45,16 @@ O Framework utilizado por mim é o Cypress aonde vou estar fazendo os seguintes 
   <br/>
 
   **2 Instalação**
-  * Clonar este repósitorio e instale as dependências :
-  * npm install
+  * Clonar este repósitorio(https://github.com/russo1992/desafio-cypress.git) e instale as dependências : npm install
   <br/>
 
  **Execução dos Testes**
  <br/>
 
- * Para abrir o cypress em modo interativo :
- * npx cypress open
- * Para rodar os testes :
- * npx cypress run
+ * Para abrir o cypress em modo interativo : npx cypress open
+ * Para rodar os testes : npx cypress run
 
 
- 
 
 <br/>
 
