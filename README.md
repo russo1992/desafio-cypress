@@ -12,12 +12,13 @@
 <br/>
 
 ## 📌 Índice 
-* [Título e Imagem de capa](https://github.com/russo1992/desafio-cypress/tree/doc#desafio-cypress-)
-* [Índice](https://github.com/russo1992/desafio-cypress/tree/doc#-%C3%ADndice)
-* [Descrição do Projeto ](https://github.com/russo1992/desafio-cypress/tree/doc#-descri%C3%A7%C3%A3o-do-projeto----)
-* [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/desafio-cypress/tree/doc#-pessoa-desenvolvedora-do-projeto)
-* [Colaboradores](https://github.com/russo1992/desafio-cypress/tree/doc#colaboradores)
-* [Ferramentas utilizadas](https://github.com/russo1992/desafio-cypress/tree/doc#ferramentas-utilizadas-)
+* [Título e Imagem de capa](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#desafio-cypress-)
+* [Status do Projeto](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-status-do-projeto)
+* [Índice](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-%C3%ADndice)
+* [Descrição do Projeto ](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-descri%C3%A7%C3%A3o-do-projeto----)
+* [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-pessoa-desenvolvedora-do-projeto)
+* [Colaboradores](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#colaboradores)
+* [Ferramentas utilizadas](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#ferramentas-utilizadas-)
 <br/>
 
 
