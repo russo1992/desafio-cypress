@@ -7,7 +7,7 @@
 
 ## 📌 Status do Projeto:
 
-![Em andamento](https://img.shields.io/static/v1?label=STATUS&message=Em%20Andamento&color=GREEN&style=for-the-badge)
+![Em andamento](img src="http://img.shields.io/static/v1?label=STATUS&message=concluido&color=GREEN&style=for-the-badge"/)
 
 <br/>
 
