@@ -42,7 +42,7 @@ O Framework utilizado por mim é o Cypress aonde vou estar fazendo os seguintes 
   **1 Pré-requisitos :**
   * Node.js instalado(versão 14 a diante)
   * Vs Code instalado
-  * Cypress instalado no projeto
+  * Cypress instalado no projeto(estou usando a versão 13.6.4)
   <br/>
 
   **2 Instalação**
