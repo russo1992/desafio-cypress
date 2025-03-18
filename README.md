@@ -42,7 +42,8 @@ Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira
 ## Colaboradores✨
 <br/>
 
-* .
+* Lucas Vieira Sousa (Pela a oportunidade de me deixar fazer este desafio)
+* Elaine Souza (Pela entrevista humanizada que fez comigo)
 
 <br/>
 
