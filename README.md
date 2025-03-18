@@ -13,11 +13,11 @@
 
 ## 📌 Índice 
 * [Título e Imagem de capa](https://github.com/russo1992/desafio-cypress/tree/doc#desafio-cypress-)
-* [Status do Projeto](https://github.com/russo1992/desafio-cypress/tree/doc#-status-do-projeto)
-* [Descrição do Projeto - Autenticator]()
-* [Pessoa Desenvolvedora do Projeto]()
-* [Colaboradores]()
-* [Ferramentas utilizadas]()
+* [Índice](https://github.com/russo1992/desafio-cypress/tree/doc#-%C3%ADndice)
+* [Descrição do Projeto ](https://github.com/russo1992/desafio-cypress/tree/doc#-descri%C3%A7%C3%A3o-do-projeto----)
+* [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/desafio-cypress/tree/doc#-pessoa-desenvolvedora-do-projeto)
+* [Colaboradores](https://github.com/russo1992/desafio-cypress/tree/doc#colaboradores)
+* [Ferramentas utilizadas](https://github.com/russo1992/desafio-cypress/tree/doc#ferramentas-utilizadas-)
 <br/>
 
 
