@@ -24,7 +24,41 @@
 ## 📌 Descrição do Projeto -  :
 <br/>
 
+Este Projeto tem como base : automatizar testes em uma aplicação web de e-commerce, no site da saucedemo (que é meio que uma espécie de laboratório para fazer seus testes automatizados com varios tipos de frameworks ).
+<br/>
 
+O Framework utilizado por mim é o Cypress aonde vou estar fazendo os seguintes Cenários :
+<br/>
+
+* Cenário 1 : Login com usuário e senha válidos e inválidos
+* Cenário 2 : Adicionar um produto ao carrinho e validar que ele aparece na listagem do carrinho
+* Cenário 3 : Realizar o checkout de um produto (simulação) e validar mensagem de sucesso
+<br/>
+
+ **Para Executar os Testes**
+ <br/>
+
+  **1 Pré-requisitos :**
+  * Node.js instalado(versão 14 a diante)
+  * Vs Code instalado
+  * Cypress instalado no projeto
+  <br/>
+
+  **2 Instalação**
+  * Clonar este repósitorio e instale as dependências :
+  * npm install
+  <br/>
+
+ **Execução dos Testes**
+ <br/>
+
+ * Para abrir o cypress em modo interativo :
+ * npx cypress open
+ * Para rodar os testes :
+ * npx cypress run
+
+
+ 
 
 <br/>
 
