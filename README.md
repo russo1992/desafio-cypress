@@ -21,6 +21,10 @@
 * [Ferramentas utilizadas](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#ferramentas-utilizadas-)
 <br/>
 
+## Mapa Mental - :
+<br/>
+
+<img src="assets/Mind Map- desafio cypress.png">
 
 ## 📌 Descrição do Projeto -  :
 <br/>
