@@ -21,12 +21,12 @@
 * [Ferramentas utilizadas](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#ferramentas-utilizadas-)
 <br/>
 
-## Mapa Mental - :
+## Mapa Mental:
 <br/>
 
 <img src="assets/Mind Map- desafio cypress.png">
 
-## 📌 Descrição do Projeto -  :
+## 📌 Descrição do Projeto:
 <br/>
 
 Este Projeto tem como base : automatizar testes em uma aplicação web de e-commerce, no site da saucedemo (que é meio que uma espécie de laboratório para fazer seus testes automatizados com varios tipos de frameworks ).
