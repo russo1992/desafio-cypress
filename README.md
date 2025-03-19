@@ -7,7 +7,7 @@
 
 ## 📌 Status do Projeto:
 
-![Em andamento](img src="http://img.shields.io/static/v1?label=STATUS&message=concluido&color=GREEN&style=for-the-badge")
+![Em andamento](https://img.shields.io/static/v1?label=STATUS&message=Concluido&color=GREEN&style=for-the-badge)
 
 <br/>
 
@@ -75,6 +75,7 @@ Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira
 
 * Lucas Vieira Sousa (Pela a oportunidade de me deixar fazer este desafio)
 * Elaine Souza (Pela entrevista humanizada que fez comigo)
+* Bruno Cesar (Um amigo e um  grande incentivador)
 
 <br/>
 
