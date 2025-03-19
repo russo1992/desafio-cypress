@@ -54,8 +54,12 @@ O Framework utilizado por mim é o Cypress aonde vou estar fazendo os seguintes 
 
  * Para abrir o cypress em modo interativo : npx cypress open
  * Para rodar os testes : npx cypress run
+  <br/>
 
+  **Uso do Commands**
+  <br/>
 
+  Utilizei o commands.js para centralizar ações repetitivas, como login, adição de produtos ao carrinho e checkout, tornando os testes mais organizados e reutilizáveis. Isso melhora a manutenção do código, evitando repetições e facilitando futuras atualizações. Além disso, os comandos customizados tornam os testes mais legíveis e intuitivos. Essa abordagem garante maior eficiência e padronização no projeto.
 
 <br/>
 
