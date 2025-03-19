@@ -16,7 +16,7 @@
 * [Status do Projeto](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-status-do-projeto)
 * [Índice](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-%C3%ADndice)
 * [Mapa Mental](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#mapa-mental)
-* [Descrição do Projeto ](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-descri%C3%A7%C3%A3o-do-projeto----)
+* [Descrição do Projeto ](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-descri%C3%A7%C3%A3o-do-projeto)
 * [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-pessoa-desenvolvedora-do-projeto)
 * [Colaboradores](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#colaboradores)
 * [Ferramentas utilizadas](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#ferramentas-utilizadas-)
