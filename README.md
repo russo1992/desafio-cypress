@@ -16,6 +16,7 @@
 * [Status do Projeto](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-status-do-projeto)
 * [Índice](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-%C3%ADndice)
 * [Mapa Mental](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#mapa-mental)
+* [Estrutua do Projeto]()
 * [Descrição do Projeto ](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-descri%C3%A7%C3%A3o-do-projeto)
 * [Pessoa Desenvolvedora do Projeto](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#-pessoa-desenvolvedora-do-projeto)
 * [Colaboradores](https://github.com/russo1992/desafio-cypress/tree/main?tab=readme-ov-file#colaboradores)
@@ -26,6 +27,14 @@
 <br/>
 
 <img src="assets/Mind Map- desafio cypress.png">
+
+<br/>
+
+## Estrutura do Projeto:
+<br/>
+
+ <img src="assets/estrutura do desafio.png">
+
 
 ## 📌 Descrição do Projeto:
 <br/>
@@ -65,6 +74,21 @@ O Framework utilizado por mim é o Cypress aonde vou estar fazendo os seguintes 
   <br/>
 
   Utilizei o commands.js para centralizar ações repetitivas, como login, adição de produtos ao carrinho e checkout, tornando os testes mais organizados e reutilizáveis. Isso melhora a manutenção do código, evitando repetições e facilitando futuras atualizações. Além disso, os comandos customizados tornam os testes mais legíveis e intuitivos. Essa abordagem garante maior eficiência e padronização no projeto.
+  <br/>
+
+  **Criação da Fixtures**
+  <br/>
+
+   Uma forma prática de armazenar dados fixos para utilizar nos testes. Isso facilita a manutenção e reutilização dos dados, tornando seus testes mais organizados e dinâmicos.
+   Todos os dados sensíveis devem usar a Fixtures.
+   OBS : Mas por conta de ser um desafio tecnico e não projeto real , você estudante , ou está em busca de seu emprego(não tem a necessidade de fazer), mas em um projeto "REAL" deve com muita certeza ser utilizado!
+   Então veja no meu repositório na pasta fixtures como foi criado as duas new files uma chamada: produtos.json e a outra chamada usuarios.json e observem como esta montado dentro de ambas as pastas .
+   Reforçando eu montei só como exemplo para vocês poderem estar vendo , mas nos testes não utlizei dentro de :
+   <br/>
+   * login-correto-cy.js
+   * login-incorreto.cy.js
+   * carrinho.cy.js
+   * checkout.cy.js
 
 <br/>
 
