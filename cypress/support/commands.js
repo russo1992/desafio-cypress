@@ -1,7 +1,3 @@
-// **
-// Este arquivo commands.js mostra como criar
-// comandos customizados no Cypress para reutilização.
-// **
 
 
 Cypress.Commands.add('login', (username, password) => {
