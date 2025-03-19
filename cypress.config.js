@@ -12,3 +12,13 @@ module.exports = defineConfig({
     chromeWebSecurity: false,
   },
 });
+
+module.exports = {
+  e2e: {
+    video: true, 
+    videoCompression: 32, 
+    videoUploadOnPasses: true, 
+    videosFolder: 'cypress/videos', 
+    screenshotsFolder: 'cypress/screenshots', 
+  },
+};
