@@ -94,4 +94,5 @@ Linkedin : [Lucas Oliveira Rodrigues](https://www.linkedin.com/in/lucas-oliveira
 * Github
 * Cypress
 * JavaScript
+* Xmind
 <br/>
